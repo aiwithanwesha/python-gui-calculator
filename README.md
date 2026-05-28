@@ -32,8 +32,10 @@ See the calculator in action! Below are the screenshots and a video demonstratio
 
 ## 🎥 Demo Video
 
-<video src="https://github.com/user-attachments/assets/5ec16ee1-85ba-4e4b-a310-8f55c067bde6" controls autoplay loop muted width="100%">
-</video>
+<p align="center">
+   <video src="https://github.com/user-attachments/assets/5ec16ee1-85ba-4e4b-a310-8f55c067bde6" controls autoplay loop muted width="70%">
+   </video>
+</p>
 
 ---
 
