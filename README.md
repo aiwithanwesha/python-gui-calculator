@@ -14,7 +14,7 @@ See the calculator in action! Below are the screenshots and a video demonstratio
 
 ### 🔹 Main Interface
 
-![Main UI](calculator_pic/main_ui.png)
+![Main UI](calculator_pic/1_main_ui.png)
 
 ### 🔹 Empty History Panel
 
