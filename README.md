@@ -35,6 +35,8 @@ See the calculator in action! Below are the screenshots and a video demonstratio
 <p align="center">
    <video src="https://github.com/user-attachments/assets/5ec16ee1-85ba-4e4b-a310-8f55c067bde6" controls autoplay loop muted width="70%">
    </video>
+   <br>
+  <a href="https://github.com/user-attachments/assets/5ec16ee1-85ba-4e4b-a310-8f55c067bde6">📱 Can't see the video? Click here to watch the Demo!</a>
 </p>
 
 ---
